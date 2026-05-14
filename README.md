@@ -13,3 +13,10 @@ The system analyzes `.eml` email files and extracts suspicious indicators from e
 - Risk scoring from 0 to 100
 - Email classification: Allow, Quarantine, or Block
 - Explainable report showing suspicious indicators and final decision
+
+## Repository Contents
+
+- Source code ZIP file
+- Project documentation PDF
+- Project presentation
+- IEEE Paper
